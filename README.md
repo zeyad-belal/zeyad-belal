@@ -12,6 +12,14 @@ Ambitious Junior Frontend Developer brings enthusiasm and detailed understanding
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on Projects
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/zeyad-belal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-belal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
 ### Skills
 
 
@@ -43,10 +51,5 @@ Ambitious Junior Frontend Developer brings enthusiasm and detailed understanding
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/zeyad.belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zeyad-belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zeyad_belall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zeyad-belal-013223227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/zeyad.belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zeyad-belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zeyad_belall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zeyad-belal-013223227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://leetcode.com/zeyadbelal00/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/zeyad-belal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-belal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
