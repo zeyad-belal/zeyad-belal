@@ -62,5 +62,5 @@ Ambitious Junior Frontend Developer brings enthusiasm and detailed understanding
 
 <b>My GitHub Stats</b>
 
-<a align="center" href="http://www.github.com/zeyad-belal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-belal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a  href="http://www.github.com/zeyad-belal"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-belal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
