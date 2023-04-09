@@ -12,6 +12,12 @@ Ambitious Junior Frontend Developer brings enthusiasm and detailed understanding
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on Projects
 
+ <div align="center">
+  <a href="https://github.com/HusseinMohamed849">
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zeyad-belal&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </div>
+
 
 ### Skills
 
