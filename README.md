@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Ambitious Junior Frontend Developer brings enthusiasm and detailed understanding of various programming languages to web page planning, development, and maintenance. Passionate about technology and web development , I constantly learn by building essential and robust projects to power up my technical skills and stay up to date on modern ways of working ✨
+Ambitious Frontend Developer brings enthusiasm and detailed understanding of various programming languages to web page planning, development, and maintenance. Passionate about technology and web development , I constantly learn by building essential and robust projects to power up my technical skills and stay up to date on modern ways of working ✨
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
