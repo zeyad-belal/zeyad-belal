@@ -48,7 +48,7 @@ Ambitious Full Stack Developer brings enthusiasm and detailed understanding of v
 </p>
 
 
-### Socials
+###  Socials
 
 <p align="left">
   <a href="https://www.facebook.com/zeyad.belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
