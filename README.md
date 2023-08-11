@@ -8,7 +8,7 @@ Ambitious Full Stack Developer brings enthusiasm and detailed understanding of v
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
-* 🚀  I'm currently working on [Foodie](http://zeyad-belal.github.io/Foodie/)
+* 🚀  I'm currently working on [Connect]([http://zeyad-belal.github.io/Connect/](https://github.com/zeyad-belal/Connect))
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Projects
 
