@@ -4,16 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Ambitious Full Stack Developer brings enthusiasm and detailed understanding of various programming languages to web page planning, development, and maintenance. Passionate about technology and web development , I constantly learn by building essential and robust projects to power up my technical skills and stay up to date on modern ways of working ✨
+A Software Developer graduated from Full Stack Web Development track using MEARN (ITI) with skills in creating
+dynamic and interactive web applications, specializing in developing web apps using frameworks such as React,
+Angular, Express.js, Bootstrap, tailwind, etc, Seeking opportunities to collaborate with a development team to deliver
+exceptional projects that align with client goals and contribute to the company’s success.✨
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
 * 🚀 I'm currently working on [Connect](https://github.com/zeyad-belal/Connect)
 * 🧠  I'm learning NextJS
-* 🤝  I'm open to collaborating on Projects
 
  <div align="center">
-  <a href="https://github.com/HusseinMohamed849">
+  <a href="https://github.com/zeyad-belal">
     <img align="center" alt="Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zeyad-belal&layout=compact&theme=radical&langs_count=6" />
   </a>
  </div>
