@@ -11,7 +11,7 @@ exceptional projects that align with client goals and contribute to the company�
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
-* 🚀 I'm currently working at [Egabee]((https://github.com/egabee))
+* 🚀 I'm currently working at [Egabee]([https://github.com/egabee])
 * 🧠  I'm learning NextJS
 
  <div align="center">
