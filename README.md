@@ -6,13 +6,12 @@ Software Developer
 
 A Software Developer graduated from Full Stack Web Development track using MEARN (ITI) with skills in creating
 dynamic and interactive web applications, specializing in developing web apps using frameworks such as React,
-Angular, Express.js, Bootstrap, tailwind, etc, Seeking opportunities to collaborate with a development team to deliver
-exceptional projects that align with client goals and contribute to the company’s success.✨
+Next.js, Express.js, Bootstrap, tailwind, etc.✨
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
 * 🚀 I'm currently working at [Egabee]([https://github.com/egabee])
-* 🧠  I'm learning NextJS
+* 🧠  I'm learning React Native
 
  <div align="center">
   <a href="https://github.com/zeyad-belal">
