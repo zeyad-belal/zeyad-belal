@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-A Software Developer graduated from Full Stack Web Development track using MEARN (ITI) with skills in creating
-dynamic and interactive web applications, specializing in developing web apps using frameworks such as React,
-Next.js, Express.js, Bootstrap, tailwind, etc.✨
+A Software Developer graduated from Full Stack Web Development track using MEARN (ITI) Skilled in modern web technologies including Next.js, React, and Tailwind CSS, I specialize in frontend development, col- laborating with cross-functional teams to deliver dynamic web applications that drive business success. A Full Stack Web Development program graduate, I possess extensive knowledge of React and Express. ✨
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
