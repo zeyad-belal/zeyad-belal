@@ -4,9 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-A Software Developer graduated from Full Stack Web Development track using MEARN (ITI) Skilled in modern web technologies including Next.js, React, and Tailwind CSS, I specialize in frontend development, collaborating with cross-functional teams to deliver dynamic web applications that drive business success. A Full Stack Web Development program graduate, I possess extensive knowledge of React and Express. ✨
+Skilled in modern web technologies including Next.js, React, React Native, and Tailwind CSS, I specialize in frontend
+development while possessing a strong foundation in backend technologies such as Node ,Express and MongoDB. I excel in
+collaborating with cross-functional Skilled in modern web technologies including Next.js, React, React Native, and Tailwind CSS, I specialize in frontend
+development while possessing a strong foundation in backend technologies such as Node ,Express and MongoDB. I excel in
+collaboratingwithcross-functionalteams todeliverdynamic webapplications that drivebusinesssuccess.teams to deliver dynamic web applications that drive business success. ✨
 
-* 🌍  I'm based in Egypt
+* 🌍  I'm based in EgyptSkilled in modern web technologies including Next.js, React, React Native, and Tailwind CSS, I specialize in frontend
+development while possessing a strong foundation in backend technologies such as Node ,Express and MongoDB. I excel in
+collaboratingwithcross-functionalteams todeliverdynamic webapplications that drivebusinesssuccess.
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
 * 🚀 I'm currently working at [DevGlobal]([https://github.com/DeV-Global-LLC])
 * 🧠  I'm learning React Native
