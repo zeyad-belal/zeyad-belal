@@ -8,7 +8,7 @@ A Software Developer graduated from Full Stack Web Development track using MEARN
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
-* 🚀 I'm currently working at [Egabee]([https://github.com/egabee])
+* 🚀 I'm currently working at [DevGlobal]([https://github.com/DeV-Global-LLC])
 * 🧠  I'm learning React Native
 
  <div align="center">
