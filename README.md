@@ -10,7 +10,7 @@ collaborating with cross-functional Skilled in modern web technologies including
 development while possessing a strong foundation in backend technologies such as Node ,Express and MongoDB. I excel in
 collaboratingwithcross-functionalteams todeliverdynamic webapplications that drivebusinesssuccess.teams to deliver dynamic web applications that drive business success. ✨
 
-* 🌍  I'm based in EgyptSkilled in modern web technologies including Next.js, React, React Native, and Tailwind CSS, I specialize in frontend
+* 🌍  I'm based in Egypt Skilled in modern web technologies including Next.js, React, React Native, and Tailwind CSS, I specialize in frontend
 development while possessing a strong foundation in backend technologies such as Node ,Express and MongoDB. I excel in
 collaboratingwithcross-functionalteams todeliverdynamic webapplications that drivebusinesssuccess.
 * ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
