@@ -13,7 +13,7 @@ collaboratingwithcross-functionalteams todeliverdynamic webapplications that dri
 * 🌍  I'm based in Egypt Skilled in modern web technologies including Next.js, React, React Native, and Tailwind CSS, I specialize in frontend
 development while possessing a strong foundation in backend technologies such as Node ,Express and MongoDB. I excel in
 collaboratingwithcross-functionalteams todeliverdynamic webapplications that drivebusinesssuccess.
-* ✉️  You can contact me at [zeyadbelal00@gmail.com](mailto:zeyadbelal00@gmail.com)
+* ✉️  You can contact me at [ziadbelal990@gmail.com](mailto:ziadbelal990@gmail.com)
 * 🚀 I'm currently working at [DevGlobal]([https://github.com/DeV-Global-LLC])
 * 🧠  I'm learning React Native
 
@@ -56,9 +56,9 @@ collaboratingwithcross-functionalteams todeliverdynamic webapplications that dri
 ###  Socials
 
 <p align="left">
-  <a href="https://www.facebook.com/zeyad.belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+  <a href="https://www.facebook.com/ziad.belal99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/zeyad-belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/zeyad_belall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/ziad_belall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/zeyad-belal-013223227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.hackerrank.com/zeyadbelal00?hr_r=1" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeyadbelal00" width="32" height="32" /></a>
   <a href="https://leetcode.com/zeyadbelal00/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zeyadbelal00" width="32" height="32" /></a></p>
